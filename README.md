@@ -11,6 +11,6 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-startbit=github:LOBOT-ROBOT/Startbit
+startbit=github:z88243310/Startbit
 ```
 
